@@ -1,14 +1,13 @@
 @font-face {
-  font-family: 'Climate Crisis';
-  src: url('fonts/ClimateCrisis/ClimateCrisis-Regular-VariableFont_YEAR.ttf') format('truetype');
+  font-family: 'ClimateCrisis';
+  src: url('/fonts/ClimateCrisis/ClimateCrisis-Regular-VariableFont_YEAR.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 
-
 @font-face {
   font-family: 'Signika Negative';
-  src: url('fonts/Signika Negative/SignikaNegative-VariableFont_wght.ttf') format('truetype');
+  src: url('/fonts/Signika Negative/SignikaNegative-VariableFont_wght.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
@@ -27,7 +26,7 @@
     }
 
     .header {
-      font-family: 'Climate Crisis', sans-serif;
+      font-family: 'ClimateCrisis', sans-serif;
       background-color: #2483ff;
       color: #ffffff;
       font-size: 24px;
