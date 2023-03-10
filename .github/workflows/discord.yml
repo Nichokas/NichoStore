@@ -1,5 +1,0 @@
-  name: Post Actions Status to Discord
-  uses: sarisia/actions-status-discord@v1
-  if: always()
-  with:
-    webhook: ${{https://discordapp.com/api/webhooks/1083772895160967238/hRx_jaKzRIGvrWxJrzYuLzseQmLyyV1eomiz4PPvW6_qeNZzq_A5Xxj6wGQAh6Lz4Ip-}}
